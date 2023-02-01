@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Rene-pan
 - 👀 I’m interested in User interface & User Experience Design + Game Designing!
-- 🌱 I’m currently learning HTML, JavaScript and CSS so that I can bridge between designing using Figma and developing the designs on Visual Studio Code!
-- 💞️ I’m looking to being able to work at renowned tech companies like Shopee, Razer, Google and more! Currently, managed to get into Razer as a UI Intern!
+- 🌱 I’m currently learning C# so that I can bridge between designing using Figma and developing games on Unity2D & 3D!
+- 💞️ I’m looking to being able to work at renowned tech companies like Shopee, Razer, Google and more! Was once a UI Intern at Razer before!
+- 🏫 Currently, I am studying at Digipen Singapore in User Experience and Game Design!
 - 📫 Check my works at www.renepan.com or connect with me at https://dribbble.com/Rene-designs!
